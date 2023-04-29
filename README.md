@@ -13,11 +13,11 @@
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/Halimp07/tripplanner-landing_page">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Halimp07&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/Halimp07/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Halimp07&repo=github-readme-stats&theme=buefy" />
 </a>
 
 <br />
