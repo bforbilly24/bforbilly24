@@ -1,4 +1,4 @@
-###👋, Welcome to my Github
+### 👋, Welcome to my Github
 #### I made this project just for fun
 
 Skills: REACT / TAILWIND / JS / HTML / CSS
