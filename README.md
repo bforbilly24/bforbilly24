@@ -13,10 +13,6 @@
     </a>
 </p>
 
-
-<h2>Top Repositories</h2>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats)](https://github.com/Halimp07/tripplanner-landing_page)
-    
 <!-- #### Top Repositories
 
 
