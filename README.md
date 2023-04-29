@@ -14,10 +14,10 @@
 
 
 <a href="https://github.com/Halimp07/tripplanner-landing_page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Halimp07&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/Halimp07/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Halimp07&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
 
 <br />
