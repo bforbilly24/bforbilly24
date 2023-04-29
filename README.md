@@ -1,11 +1,13 @@
-<h1>Welcome to my Github</h1>
-<h3>I made this project just for fun</h3>
-
 <p align="center">
+    <h1>Welcome to my Github</h1>
+    <h3>I made this project just for fun</h3>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,tailwind" />
     </a>
-    <a href="(https://github.com/Halimp07">
+</p>
+<br>
+<p align="center">
+  <a href="(https://github.com/Halimp07">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halimp07&hide_progress=true&show_icons=true&theme=tokyonight" />
     </a>
 </p>
