@@ -10,7 +10,7 @@
 </a>
 
 
-#### Top Repositories
+<!-- #### Top Repositories
 
 
 <a href="https://github.com/Halimp07/tripplanner-landing_page">
@@ -18,11 +18,11 @@
 </a>
 <a href="https://github.com/Halimp07/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-
+</a> -->
+<!-- 
 <br />
 <br />
-
+ -->
 <a href="https://www.instagram.com/d_halimp">
   <img align="right" alt="d_halimp | Instagram" width="20px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg'>
 </a>
