@@ -1,5 +1,5 @@
 <h1>Welcome to my Github</h1>
-    <h3>I made this project just for fun</h3>
+<h3>I made this project just for fun</h3>
 
 <p align="center">
     <a href="https://skillicons.dev">
@@ -14,7 +14,9 @@
 </p>
 
 
-
+<h2>Top Repositories</h2>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Halimp07&repo=github-readme-stats)](https://github.com/Halimp07/tripplanner-landing_page)
+    
 <!-- #### Top Repositories
 
 
