@@ -1,7 +1,7 @@
 <h1>Welcome to my Github</h1>
+    <h3>I made this project just for fun</h3>
 
 <p align="center">
-    <h3>I made this project just for fun</h3>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,tailwind" />
     </a>
