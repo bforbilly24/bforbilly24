@@ -32,7 +32,7 @@
 
 TRIPPLANNER
 
-<p align="center"><img align="center" width="280" src="https://github.com/Halimp07/b3i-image/blob/main/logo/logo.png"/></p>
+<p align="center"><img align="center" width="20" src="https://github.com/Halimp07/b3i-image/blob/main/logo/logo.png"/></p>
 <p align="center"><img align="center" width="280" src="https://github.com/Halimp07/b3i-image/blob/main/logo/text.png"/></p>
 <h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
 <hr>
