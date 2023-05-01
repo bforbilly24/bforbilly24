@@ -37,10 +37,18 @@
 
 TRIPPLANNER
 
-<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="280" src="https://github.com/Halimp07/b3i-image/blob/main/logo/logo-full.png"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
 <h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
 <hr>
+
+TRIPPLANNER
+
+<p>
+    <a href="https://github.com/HomeLearner116/project_scrum_team">
+        <img src=".GITHUB/screenshoot.png" alt="0" style="width: 20%;"/>
+    </a>
+</p>
 
 ## Getting Started
 
@@ -50,6 +58,11 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
