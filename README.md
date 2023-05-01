@@ -37,11 +37,10 @@
 
 TRIPPLANNER
 
-<p>
-    <a href="https://github.com/HomeLearner116/project_scrum_team">
-        <img src=".GITHUB/screenshoot.png" alt="0" style="width: 20%;"/>
-    </a>
-</p>
+<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
+<h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
+<hr>
 
 ## Getting Started
 
