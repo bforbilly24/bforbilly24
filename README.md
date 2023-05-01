@@ -30,11 +30,14 @@
   <img align="right" alt="d_halimp | Instagram" width="20px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg'>
 </a>
 
-TRIPPLANNER
+<h1>Iterasi 1</h1>
 
-<p align="center"><img align="center" width="20" src="https://github.com/Halimp07/b3i-image/blob/main/logo/logo.png"/></p>
-<p align="center"><img align="center" width="280" src="https://github.com/Halimp07/b3i-image/blob/main/logo/text.png"/></p>
-<h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
+<p align="center">
+    <a href="#">
+        <img align="center" width="280" src="https://github.com/Halimp07/b3i-image/blob/main/logo/logo-full.png"/>
+    </a>
+</p>
+<h3 align="center">Your Personal Itenerary Assistant</h3>
 <hr>
 
 TRIPPLANNER
