@@ -3,9 +3,9 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,php" />
         <br />
-        <img src="https://skillicons.dev/icons?i=sass,php,laravel,react,tailwind,mysql,git,linux" />
+        <img src="https://skillicons.dev/icons?i=sass,laravel,react,tailwind,mysql,git,linux" />
     </a>
 </p>
 <br>
