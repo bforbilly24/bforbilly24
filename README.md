@@ -5,7 +5,7 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,html,css,php" />
         <br />
-        <img src="https://skillicons.dev/icons?i=bootstrap,sass,laravel,react,tailwind,mysql,git,linux" />
+        <img src="https://skillicons.dev/icons?i=bootstrap,sass,laravel,react,tailwind,mysql,git,linux,wordpress" />
     </a>
 </p>
 <br>
