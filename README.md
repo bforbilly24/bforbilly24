@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to my Github</h1>
 <h4 align="center">I made this project just for fun</h4>
 
-<br />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/halimp/" target="blank">
