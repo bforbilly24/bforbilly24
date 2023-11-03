@@ -11,8 +11,8 @@
 <br>
 <p align="center">
   <a href="(https://github.com/Halimp07">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halimp07&hide_progress=true&show_icons=true&theme=tokyonight" />
-    </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Halimp07&show_icons=true&locale=en&layout=compact&theme=tokyonight"     alt="Halimp07" />    
+  </a>
 </p>
 
 <!-- #### Top Repositories
