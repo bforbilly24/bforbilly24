@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Github</h1>
 <h4 align="center">I made this project just for fun</h4>
 
-<br/>
+<br />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/halimp/" target="blank">
@@ -21,13 +21,9 @@
 </p>
 <br>
 <p align="center">
-  <a href="(https://github.com/Halimp07">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Halimp07&show_icons=true&locale=en&layout=compact&theme=tokyonight"     alt="Halimp07" />    
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Halimp07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Halimp07" /> 
 </p>
-
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Halimp07&" alt="Halimp07" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Halimp07&theme=tokyonight" alt="Halimp07" />
+</p>
  
-<a href="https://www.instagram.com/d_halimp">
-  <img align="right" alt="d_halimp | Instagram" width="20px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg'>
-</a>
