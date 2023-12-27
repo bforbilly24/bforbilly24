@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/halimp/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Daniel Krisna Halim Putra" height="30" width="40" /></a>
 <a href="https://instagram.com/@d_halimp" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@d_halimp" height="30" width="40" /></a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bforbilly24" height="30" width="40" /></a>
 </p>
 
 
@@ -20,9 +20,9 @@
 </p>
 <br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Halimp07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Halimp07" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bforbilly24&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bforbilly24" /> 
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Halimp07&theme=tokyonight" alt="Halimp07" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bforbilly24&theme=tokyonight" alt="bforbilly24" />
 </p>
  
