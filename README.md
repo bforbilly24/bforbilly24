@@ -1,14 +1,9 @@
-<h5 align="center">#ndskmtndsmpy</h5>
-<h4 align="center">
-    <a href="https://my-portfolio-halimp07.vercel.app/">    
-        Press Me!
-    </a>
-</h4>
+![Banner](https://github.com/bforbilly24/bforbilly24/assets/93701344/b835bab6-161a-4bb0-b8e7-fd6b61bae0dc)
+
+<p align="center">#ndskmtndsmpy</p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=44F71C&center=true&vCenter=true&width=500&height=70&duration=3000&lines=P+Hu!+👋;I'm+Interested+In+Webdev"/></a>
 </h1>
-
-
 
 <div align="center">
      <p>Languages|Frameworks|Tools </p>
@@ -40,13 +35,7 @@
 		</tr>
 	</table>
 </div>
-</p>
 
-<br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bforbilly24&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bforbilly24" /> 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bforbilly24&theme=tokyonight" alt="bforbilly24" />
 </p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bforbilly24&theme=tokyonight" alt="bforbilly24" />
-</p>
- 
